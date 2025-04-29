@@ -1,0 +1,146 @@
+
+County,GeoFips,Year,MetricType,Value,PercentChange,StateRank
+Autauga,1001,2020,Per Capita Income,45068,,
+Autauga,1001,2021,Per Capita Income,49174,1.3,
+Autauga,1001,2022,Per Capita Income,49811,6.6,
+Autauga,1001,2023,Per Capita Income,53079,,10
+Baldwin,1003,2020,Per Capita Income,50895,,
+Baldwin,1003,2021,Per Capita Income,56285,2.4,
+Baldwin,1003,2022,Per Capita Income,57621,5.8,
+Baldwin,1003,2023,Per Capita Income,60969,,4
+Barbour,1005,2020,Per Capita Income,37062,,
+Barbour,1005,2021,Per Capita Income,40954,0.2,
+Barbour,1005,2022,Per Capita Income,41031,1.2,
+Barbour,1005,2023,Per Capita Income,41531,,56
+Bibb,1007,2020,Per Capita Income,34817,,
+Bibb,1007,2021,Per Capita Income,37362,2.2,
+Bibb,1007,2022,Per Capita Income,38196,4.3,
+Bibb,1007,2023,Per Capita Income,39835,,64
+Blount,1009,2020,Per Capita Income,37764,,
+Blount,1009,2021,Per Capita Income,42975,2.5,
+Blount,1009,2022,Per Capita Income,44063,2.2,
+Blount,1009,2023,Per Capita Income,45021,,38
+Bullock,1011,2020,Per Capita Income,30672,,
+Bullock,1011,2021,Per Capita Income,34068,-1.9,
+Bullock,1011,2022,Per Capita Income,33429,7.9,
+Bullock,1011,2023,Per Capita Income,36061,,67
+Butler,1013,2020,Per Capita Income,39470,,
+Butler,1013,2021,Per Capita Income,45438,4.5,
+Butler,1013,2022,Per Capita Income,47502,3.6,
+Butler,1013,2023,Per Capita Income,49192,,22
+Calhoun,1015,2020,Per Capita Income,39562,,
+Calhoun,1015,2021,Per Capita Income,43215,-1.3,
+Calhoun,1015,2022,Per Capita Income,42668,4.8,
+Calhoun,1015,2023,Per Capita Income,44737,,40
+Chambers,1017,2020,Per Capita Income,35955,,
+Chambers,1017,2021,Per Capita Income,39269,0.5,
+Chambers,1017,2022,Per Capita Income,39447,3.3,
+Chambers,1017,2023,Per Capita Income,40735,,62
+Cherokee,1019,2020,Per Capita Income,39894,,
+Cherokee,1019,2021,Per Capita Income,44590,-0.1,
+Cherokee,1019,2022,Per Capita Income,44563,1.2,
+Cherokee,1019,2023,Per Capita Income,45099,,36
+Chilton,1021,2020,Per Capita Income,38311,,
+Chilton,1021,2021,Per Capita Income,42839,1.4,
+Chilton,1021,2022,Per Capita Income,43454,6.1,
+Chilton,1021,2023,Per Capita Income,46120,,31
+Choctaw,1023,2020,Per Capita Income,40471,,
+Choctaw,1023,2021,Per Capita Income,43626,8.0,
+Choctaw,1023,2022,Per Capita Income,47125,4.7,
+Choctaw,1023,2023,Per Capita Income,49356,,20
+Clarke,1025,2020,Per Capita Income,41203,,
+Clarke,1025,2021,Per Capita Income,45076,-0.6,
+Clarke,1025,2022,Per Capita Income,44788,5.7,
+Clarke,1025,2023,Per Capita Income,47362,,26
+Clay,1027,2020,Per Capita Income,34994,,
+Clay,1027,2021,Per Capita Income,39465,0.0,
+Clay,1027,2022,Per Capita Income,39456,-0.9,
+Clay,1027,2023,Per Capita Income,39082,,66
+Cleburne,1029,2020,Per Capita Income,37849,,
+Cleburne,1029,2021,Per Capita Income,42929,3.1,
+Cleburne,1029,2022,Per Capita Income,44251,0.0,
+Cleburne,1029,2023,Per Capita Income,44266,,43
+Coffee,1031,2020,Per Capita Income,45162,,
+Coffee,1031,2021,Per Capita Income,50369,2.8,
+Coffee,1031,2022,Per Capita Income,51776,3.5,
+Coffee,1031,2023,Per Capita Income,53573,,9
+Colbert,1033,2020,Per Capita Income,40340,,
+Colbert,1033,2021,Per Capita Income,44126,1.5,
+Colbert,1033,2022,Per Capita Income,44800,5.2,
+Colbert,1033,2023,Per Capita Income,47137,,28
+Conecuh,1035,2020,Per Capita Income,37050,,
+Conecuh,1035,2021,Per Capita Income,41418,-0.1,
+Conecuh,1035,2022,Per Capita Income,41390,3.9,
+Conecuh,1035,2023,Per Capita Income,42999,,49
+Coosa,1037,2020,Per Capita Income,35699,,
+Coosa,1037,2021,Per Capita Income,39176,-1.1,
+Coosa,1037,2022,Per Capita Income,38739,4.3,
+Coosa,1037,2023,Per Capita Income,40420,,63
+Autauga,1001,2020,GDP,1746979,-0.6,
+Autauga,1001,2021,GDP,1736001,9.2,
+Autauga,1001,2022,GDP,1895751,2.6,
+Autauga,1001,2023,GDP,1945909,,23
+Baldwin,1003,2020,GDP,8109210,7.4,
+Baldwin,1003,2021,GDP,8706236,5.0,
+Baldwin,1003,2022,GDP,9145388,3.2,
+Baldwin,1003,2023,GDP,9435720,,7
+Barbour,1005,2020,GDP,732151,2.9,
+Barbour,1005,2021,GDP,753330,-1.1,
+Barbour,1005,2022,GDP,744850,-3.9,
+Barbour,1005,2023,GDP,715994,,42
+Bibb,1007,2020,GDP,460844,-0.2,
+Bibb,1007,2021,GDP,460027,-0.5,
+Bibb,1007,2022,GDP,457625,1.9,
+Bibb,1007,2023,GDP,466543,,52
+Blount,1009,2020,GDP,906582,14.0,
+Blount,1009,2021,GDP,1033615,-0.2,
+Blount,1009,2022,GDP,1031061,-4.3,
+Blount,1009,2023,GDP,987208,,34
+Bullock,1011,2020,GDP,269007,-3.0,
+Bullock,1011,2021,GDP,260950,-3.2,
+Bullock,1011,2022,GDP,252515,6.1,
+Bullock,1011,2023,GDP,267926,,64
+Butler,1013,2020,GDP,601322,6.3,
+Butler,1013,2021,GDP,639245,2.8,
+Butler,1013,2022,GDP,656864,0.6,
+Butler,1013,2023,GDP,660757,,43
+Calhoun,1015,2020,GDP,4454207,5.6,
+Calhoun,1015,2021,GDP,4704903,-2.4,
+Calhoun,1015,2022,GDP,4593362,3.7,
+Calhoun,1015,2023,GDP,4764871,,12
+Chambers,1017,2020,GDP,882006,-0.7,
+Chambers,1017,2021,GDP,876257,0.3,
+Chambers,1017,2022,GDP,878621,2.9,
+Chambers,1017,2023,GDP,903782,,38
+Cherokee,1019,2020,GDP,534073,11.9,
+Cherokee,1019,2021,GDP,597740,1.7,
+Cherokee,1019,2022,GDP,607982,-1.4,
+Cherokee,1019,2023,GDP,599214,,47
+Chilton,1021,2020,GDP,1069934,2.5,
+Chilton,1021,2021,GDP,1096741,4.7,
+Chilton,1021,2022,GDP,1148340,5.8,
+Chilton,1021,2023,GDP,1215493,,33
+Choctaw,1023,2020,GDP,562101,2.2,
+Choctaw,1023,2021,GDP,574699,9.5,
+Choctaw,1023,2022,GDP,629451,-1.7,
+Choctaw,1023,2023,GDP,618810,,45
+Clarke,1025,2020,GDP,850374,-0.8,
+Clarke,1025,2021,GDP,843622,-2.1,
+Clarke,1025,2022,GDP,826142,3.0,
+Clarke,1025,2023,GDP,850844,,39
+Clay,1027,2020,GDP,424267,3.5,
+Clay,1027,2021,GDP,439087,-1.9,
+Clay,1027,2022,GDP,430827,-10.3,
+Clay,1027,2023,GDP,386382,,56
+Cleburne,1029,2020,GDP,279348,15.5,
+Cleburne,1029,2021,GDP,322737,1.6,
+Cleburne,1029,2022,GDP,327915,0.0,
+Cleburne,1029,2023,GDP,327927,,62
+Coffee,1031,2020,GDP,1399269,15.2,
+Coffee,1031,2021,GDP,1611624,5.3,
+Coffee,1031,2022,GDP,1697570,0.7,
+Coffee,1031,2023,GDP,1709663,,25
+Colbert,1033,2020,GDP,2533138,2.6,
+Colbert,1033,2021,GDP,2599438,4.8,
+Colbert,1033,2022,GDP,2725169,2.8,
+Colbert,1033,2023,GDP,2802771,,19
